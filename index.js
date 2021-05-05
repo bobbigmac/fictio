@@ -1,6 +1,6 @@
 
 import ServerSide from 'https://serversi.de/api.js';
-console.log({ServerSide});
+// console.log({ServerSide});
 // import ServerSide from '//localhost:4000/api.js';
 
 const apiKey = 'some-key-abc123';
